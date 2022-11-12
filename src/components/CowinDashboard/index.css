@@ -1,0 +1,31 @@
+.total-container {
+  background-color: #161625;
+  padding: 20px;
+  min-height: 500px;
+  height: 100%vh;
+  text-align: center;
+}
+.header-heading {
+  color: #ffffff;
+}
+.logo-container {
+  display: flex;
+}
+.website-name {
+  color: #64c2a6;
+}
+.website-logo {
+  height: 80px;
+  margin-right: 15px;
+}
+.vaccination-coverage,
+.vaccination-by-gender,
+.vaccination-by-age {
+  margin: 10px;
+  background-color: #1c1c2b;
+  padding: 15px;
+}
+.div-heading {
+  color: #cbd5e1;
+  font-size: 15px;
+}
